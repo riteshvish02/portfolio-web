@@ -17,6 +17,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: #0f172a;
+  background-image: url(./img/nnnoise\ \(3\).svg);
   color: lavender;
   /* color: white; */
   font-family: SF Pro Display;
@@ -39,6 +40,7 @@ a.clicked {
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  
 }
 
 .hero-section-mini {
