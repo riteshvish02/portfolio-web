@@ -686,8 +686,16 @@ a.clicked {
   padding: 7px;
   font-size: 1wv;
 }
-
-@media only screen and (max-width: 374px) {
+@media only screen and (min-width: 1024px) {
+#welcome-section{
+  /* background-color: red; */
+  margin-top: 7%;
+}
+#download-section #btn{
+  margin-top: 5%;
+}
+}
+@media only screen and (max-width: 600px) {
   #background-img-with-vector-img {
     top: 18%;
     left: 50%;
